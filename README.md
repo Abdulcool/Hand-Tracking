@@ -17,5 +17,5 @@ You can also do face recognition and other cool recognition projects on this web
 + Object Detection
 + Box Tracking
 + Instant Motion Tracking and many more
-+ 
+
 Code is also provided on the website
